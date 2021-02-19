@@ -1,0 +1,21 @@
+baseURL = "http://alcatraz2.ee.cooper.edu:8021/"
+languageCode = "en-us"
+title = "Autonomy Lab"
+theme = "massively"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+canonifyurls = true
+
+copyright="All work is done with consideration of its effects on the environment.<br>Autonomy Lab, 2021."
+
+[languages]
+[languages.en]
+  languageName = "English"
+
+[params]
+[params.posts]
+featuredpost = false
+foldername = "blog"
+
+[markup.goldmark.renderer]
+unsafe = true
