@@ -6,4 +6,4 @@ menus:
     weight: 1
 ---
 
-## Design and Innovation for Connected Communities
+## Design and Innovation for Smart Cities
