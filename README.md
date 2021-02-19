@@ -20,10 +20,6 @@ hugo new blog/blog-post-name.md
 
 Images should be added in the `static/` directory.
 
-### Generate website
+### Deployment
 
-Run the following command to generate the `public/` directory with a site that can be served on a web server.
-
-```bash
-make prod
-```
+The `Deploy` GitHub action will be triggered upon push. If the build is successful, the changes will be pushed to production automatically.
