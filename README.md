@@ -1,4 +1,4 @@
-# Autonomy Lab Website   ![Deploy Acton](https://github.com/autonomy-lab-cooper-union/AutonomyLabWebsite/actions/workflows/deploy.yml/badge.svg)
+# Autonomy Lab Website   ![Deploy Action](https://github.com/autonomy-lab-cooper-union/AutonomyLabWebsite/actions/workflows/build.yml/badge.svg)
 
 Visit us at [autonomylab.nyc](https://autonomylab.nyc).
 
