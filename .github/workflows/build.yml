@@ -1,4 +1,4 @@
-name: Deploy
+name: Build
 
 on:
   workflow_dispatch:
@@ -29,5 +29,6 @@ jobs:
           mkdir /home/runner/.config/rclone
           echo "${{ secrets.RCLONE_CONF }}" > ~/.config/rclone/rclone.conf
           
-      - name: Deploy to Prod
+      - name: Deploy to Prod (if on main)
+        if: ${GITHUB_REF##*/} == "main"
         run: rclone sync ./public aldeploy:www
