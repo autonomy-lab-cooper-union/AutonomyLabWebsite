@@ -39,10 +39,10 @@ Images should be added in the `static/` directory.
 
 ## Deployment
 
-The `Deploy` GitHub action will be triggered upon push. If the build is successful, the changes will be deployed to production automatically.
+The `Deploy` GitHub action will be triggered upon push. If the build is successful and you are on main, the changes will be deployed to production automatically. On other branches, the build will run but won't be deployed.
 
 ## Maintenance
 
-Please open an issue or PR if something needs to be addressed. Pushing to the repo directly will cause Actions to update the production site!
+Please open an issue or PR if something needs to be addressed. PRs must be reviewed by at least one person before being eligible for merging if you're not an admin. Pushing or merging to the main branch triggers Actions to update the live production site!
 
 Initial website built by [@gary-kim](https://github.com/gary-kim/).
