@@ -39,7 +39,7 @@ Images should be added in the `static/` directory.
 
 ## Deployment
 
-The `Deploy` GitHub action will be triggered upon push. If the build is successful, the changes will be deployed to production automatically.
+The `Deploy` GitHub action will be triggered upon push. If the build is successful and you are on main, the changes will be deployed to production automatically. On other branches, the build will run but won't be deployed.
 
 ## Maintenance
 
