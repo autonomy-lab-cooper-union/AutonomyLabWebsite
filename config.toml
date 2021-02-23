@@ -1,4 +1,4 @@
-baseURL = "http://alcatraz2.ee.cooper.edu:8021/"
+baseURL = "https://autonomylab.nyc"
 languageCode = "en-us"
 title = "Autonomy Lab"
 theme = "massively"
