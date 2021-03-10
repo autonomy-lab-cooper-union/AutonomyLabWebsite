@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Autonomy Lab</title>
+    <link>http://autonomylab.nyc/research/</link>
+    <description>Recent content in Projects on Autonomy Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All work is done with consideration of its effects on the environment.&lt;br&gt;Autonomy Lab, 2021.</copyright><atom:link href="http://autonomylab.nyc/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autonomous and Connected Systems</title>
+      <link>http://autonomylab.nyc/research/acs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://autonomylab.nyc/research/acs/</guid>
+      <description>Objective We are envisioning a Cooper-based center for autonomous and connected vehicles in smart cities. This center will focus on two main objectives:
+ Development of new technologies that contribute to sustainable and resilient transport systems ​ Creation and development of a multidisciplinary educational model that teaches students the concepts of autonomous vehicles using real-world customized cars. ​  Governors Island has been identified as a likely location for both performing research and educational activities involving real-world autonomous cars.</description>
+    </item>
+    
+  </channel>
+</rss>

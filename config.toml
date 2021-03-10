@@ -1,4 +1,4 @@
-baseURL = "https://autonomylab.nyc"
+baseURL = "http://autonomylab.nyc"
 languageCode = "en-us"
 title = "Autonomy Lab"
 theme = "massively"
