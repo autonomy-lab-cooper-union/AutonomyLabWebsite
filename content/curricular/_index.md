@@ -3,7 +3,7 @@ title: "Curricular Initiatives"
 list: false
 menu:
   main:
-    name: '<i class="icon fa-book"></i> Curricular Initiatives'
+    name: '<i class="icon fa-book"></i>Curricular Initiatives'
     weight: 30
 ---
 
