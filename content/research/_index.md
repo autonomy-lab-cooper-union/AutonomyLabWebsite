@@ -4,7 +4,7 @@ show: true
 list: false
 menu:
   main:
-    name: '<i class="icon fa-search"></i> Projects'
+    name: '<i class="icon fa-search"></i>Projects'
     weight: 25
 ---
 
